@@ -26,7 +26,7 @@ def assemble_ships_player(player_A_board):
         player_A_board.add_ship(Cruiser(int(cruiser[0])), (int(cruiser[1]), int(cruiser[2])))
         player_A_board.print()
 
-        carrier = input("Carrier: ").split()
+        carrier = input("Aircraft Carrier: ").split()
         player_A_board.add_ship(Carrier(int(carrier[0])), (int(carrier[1]), int(carrier[2])))
         player_A_board.print()
 
