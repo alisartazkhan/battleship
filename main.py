@@ -166,9 +166,10 @@ def main():
 
     print("\n\n\n *** GAME OVER ***")
     print()
-    print("Your Board")
+    print("Your Board:")
     player_A_board.print()
-    print("Opponent's Board")
+    print("\n)
+    print("Opponent's Board:")
     opponent_A_board.print()
 
 
