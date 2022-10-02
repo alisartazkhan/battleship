@@ -1,10 +1,11 @@
 
-"""Author: Ali Sartaz Khan
-   Main program for Battleship
-   Creates a board.  Right now, the code hard-codes the board in one
-   arrangement: a standard one, using 5 standard ship types. The User and the
-   Computer take turns in attacking eachother's board. The first side to get all
-   their ships sunk loses.
+"""
+Author: Ali Sartaz Khan
+Main program for Battleship
+Creates a board.  Right now, the code hard-codes the board in one
+arrangement: a standard one, using 5 standard ship types. The User and the
+Computer take turns in attacking eachother's board. The first side to get all
+their ships sunk loses.
 """
 import random
 import time
