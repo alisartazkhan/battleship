@@ -1,9 +1,10 @@
-''' File: battleship.py
-    Author: Ali Sartaz Khan
-    Description: Built some classes that will be called by
-    another program. These classes try to simulate the game
-    of battleship.
-    '''
+''' 
+File: battleship.py
+Author: Ali Sartaz Khan
+Description: Built some classes that will be called by
+another program. These classes try to simulate the game
+of battleship.
+'''
 
 
 class Node:
